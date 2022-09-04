@@ -1,1 +1,1 @@
-export * from './simpleToolkitTypes'
+export * from './simpleToolkitTypes';
