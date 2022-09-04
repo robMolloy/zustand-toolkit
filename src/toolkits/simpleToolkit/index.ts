@@ -1,2 +1,1 @@
-export * from './simpleToolkit'
-export * from './types'
+export * from './simpleToolkit';
